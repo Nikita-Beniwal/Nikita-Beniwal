@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I am a seasoned Data Analyst with over 7 years of 
 
 I am passionate about using data to drive business decisions and improve operational efficiencies. My journey in the tech world has equipped me with a diverse skill set and a keen eye for detail. I thrive on challenges and am always eager to learn and adapt to new technologies.
 
-- **Location:** Clayton, Victoria, Australia
 - **LinkedIn:** [Nikita Beniwal](https://www.linkedin.com/in/nikitabeniwal-5b1b5b8b)
 - **Website:** [Viberight](https://viberight.net/)
 
