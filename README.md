@@ -6,7 +6,7 @@ I transform raw data into golden insights that empower businesses to make smarte
 
 Data is my creative canvas, and I'm the artist who paints a clearer picture of the future. I thrive on uncovering hidden patterns, breathing life into predictive models, and weaving compelling data stories that drive strategic action. I'm also passionate about sharing my data knowledge with others and empowering teams to embrace data-driven decision-making.
   
-🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/nikitabeniwal-5b1b5b8b)  
+🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/nikita-beniwal/)  
 🌐 Check out my work: [Viberight](https://viberight.net/)
 
 ## 🛠 My Data Arsenal
