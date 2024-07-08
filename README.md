@@ -25,10 +25,10 @@ I am passionate about using data to drive business decisions and improve operati
 **Mission:** Leverage technology to provide users with valuable information about food and nutrition, helping them lead healthier and happier lives. Our web development project simplifies the process of understanding and managing dietary intake, making it easier for individuals to adopt healthier eating habits.
 **Website:** [Viberight](https://viberight.net/)
 
-### Azure AI and OpenAI Dashboards at AECC
+### Data Dashboards at AECC
 - **Objective:** Enhance decision-making and operations by 50% in telecalling and reduce marketing costs.
 - **Achievements:**
-  - **Innovative Dashboards:** Created dynamic dashboards using Azure AI and OpenAI to summarize complex reports, significantly improving productivity.
+  - **Innovative Dashboards:** Created dynamic dashboards using Power BI, Azure AI and OpenAI to summarize complex reports, significantly improving productivity.
   - **Strategic Insights:** Analyzed ads, traffic, and A/B testing decisions, reducing marketing expenses and driving targeted strategies.
   - **Personalized Recommendations:** Developed a robust course recommendation model to tailor student course selections.
   - **Profile Analysis:** Implemented machine learning models for in-depth student profile analysis, aiding targeted marketing.
